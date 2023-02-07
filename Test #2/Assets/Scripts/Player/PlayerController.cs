@@ -90,5 +90,12 @@ public class PlayerController : MonoBehaviour
 
         anime.SetFloat("hInput", Mathf.Abs(hInput));
         anime.SetBool("isGrounded", isGrounded);
+
+
+        if (hInput > 0 && sp.flipX || hInput < 0 && !sp.flipX)
+            sp.flipX = !sp.flipX;
+    
+    
+    
     }
 }
