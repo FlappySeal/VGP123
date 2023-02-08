@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Up
+      name: LifePu
       rect:
         serializedVersion: 2
         x: 201
@@ -621,7 +621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: megaman_24
+      name: JumpPu
       rect:
         serializedVersion: 2
         x: 125
@@ -852,7 +852,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: megaman_35
+      name: SpeedPu
       rect:
         serializedVersion: 2
         x: 123
@@ -1335,7 +1335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: megaman_58
+      name: Leaf
       rect:
         serializedVersion: 2
         x: 406
@@ -2187,6 +2187,7 @@ TextureImporter:
       megaman_90: 476156023
       megaman_71: -626361406
       megaman_21: -371925667
+      LifePu: 922076423
       megaman_73: 1583814350
       megaman_40: -1396513888
       megaman_50: -1188000608
@@ -2198,7 +2199,6 @@ TextureImporter:
       megaman_67: 650808037
       megaman_44: 1550768453
       megaman_4: -1645200659
-      megaman_58: 1480917101
       megaman_38: -1962149727
       megaman_43: 1444912733
       megaman_59: 1353287675
@@ -2210,7 +2210,6 @@ TextureImporter:
       megaman_7: 794495297
       megaman_8: -1388142523
       megaman_17: 1447237895
-      Power Up: 922076423
       megaman_64: -480105346
       megaman_39: -1861430615
       megaman_63: -123009066
@@ -2220,6 +2219,7 @@ TextureImporter:
       megaman_46: 1667630994
       megaman_47: 890096544
       megaman_3: 1063904220
+      Leaf: 1480917101
       projectile: 273977242
       megaman_14: 315166798
       megaman_89: 1898535089
@@ -2229,6 +2229,7 @@ TextureImporter:
       megaman_20: -2074819541
       megaman_57: 534386745
       megaman_77: 1053044620
+      JumpPu: 1579769924
       megaman_54: 281902262
       megaman_37: -1953943612
       megaman_65: -4521957
@@ -2240,24 +2241,23 @@ TextureImporter:
       megaman_49: -706146039
       megaman_27: -1289505509
       megaman_96: -996217909
-      megaman_35: 1727808030
       megaman_95: 413698239
       megaman_52: -720219094
+      SpeedPu: 1727808030
       megaman_34: 58131976
       megaman_6: 1524552320
       megaman_10: -991600061
       megaman_13: -484647411
       megaman_83: -1024337659
       megaman_82: 2137661397
-      megaman_62: 543767131
       megaman_74: 2108697662
+      megaman_62: 543767131
       megaman_56: -473312670
       megaman_36: -385214700
       megaman_69: 970728166
       megaman_30: 1399951005
       megaman_61: 1505170996
       megaman_84: 1482864893
-      megaman_24: 1579769924
       megaman_19: 882445522
       megaman_29: 703237219
       megaman_93: 394153534
